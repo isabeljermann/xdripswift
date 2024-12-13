@@ -5,5 +5,5 @@ MAIN_APP_DISPLAY_NAME = xDrip4iO5
 XDRIP_DEVELOPMENT_TEAM = RFB7Q6T7DQ
 
 // Change to support running multiple apps simultaneously.
-MAIN_APP_BUNDLE_IDENTIFIER = com.$(DEVELOPMENT_TEAM).xdripswift
+MAIN_APP_BUNDLE_IDENTIFIER = group.com.$(DEVELOPMENT_TEAM).xdripswift
 
